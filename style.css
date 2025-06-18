@@ -1,0 +1,17 @@
+
+button{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(61, 161, 57);
+    margin: 10px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.result{
+    background-color: rgb(124, 134, 134);
+    height: 300px;
+    width: 650px;
+    margin: 10px;
+    font-size: 30px;
+    color: azure;
+}
